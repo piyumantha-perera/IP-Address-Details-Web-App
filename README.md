@@ -39,10 +39,10 @@ A simple and elegant web application that retrieves and displays detailed inform
 To run the project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ip-address-details-fetcher.git
-   ```
-2. Open `index.html` in your preferred web browser.
+   
+   git clone https://github.com/piyumantha-perera/IP-Address-Details-Web-App.git
+   
+3. Open `index.html` in your preferred web browser.
 
 There are no additional dependencies or build processes required for this project.
 
